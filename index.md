@@ -8,5 +8,7 @@ Here is something we made with my cookies! <img src="images/ice_cream_sandwich.j
 
 To buy some frozen cookie dough balls in the Auburn/Opelika area, email me at [amookiecookie@gmail.com](mailto:amookiecookie@gmail.com).  The price for a dozen cookies balls **delivered** is $6.  
 
+You can send a venmo payment with this QR code:
 
+<img src="images/venmo.png" alt="hi" class="inline"/>
 
